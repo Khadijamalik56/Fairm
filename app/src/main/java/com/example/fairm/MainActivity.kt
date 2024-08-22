@@ -21,8 +21,7 @@ class MainActivity : ComponentActivity() {
 
         }
     }
-    @Preview(showBackground = true)
-    @Composable
+
         fun Helloworld() {
            Text(text = "welcome to kotlin ")
 }
