@@ -21,7 +21,16 @@ class MainActivity : ComponentActivity() {
 
         }
     }
-
-        fun Helloworld() {
-           Text(text = "welcome to kotlin ")
 }
+@Preview(showBackground = true)
+@Composable
+fun HelloWorld(){
+    Text(text = "Welcome to programming")
+}
+
+@Preview
+@Composable
+fun HelloKotlin(){
+    Text(text = "Programming with kotlin")
+}
+

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "126252854297",
+    "project_id": "farim-9f6ca",
+    "storage_bucket": "farim-9f6ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126252854297:android:961d8e72678eb200d0ce88",
+        "android_client_info": {
+          "package_name": "com.example.fairm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy3XSGmz-WGviKnW2nqxDXdNKfBuYME9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
